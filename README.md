@@ -14,4 +14,4 @@ This repository documents my daily progress as I build hands-on skills in data a
 - Uploaded `.sqlite` file and README to `SQL_Practice/`
 
 ### 🧩 Deloitte Tableau + Excel Project
-A business case analysis using Tableau dashboards and Excel modeling. [View Folder](Deloitte_Project/)
+A business case analysis using Tableau dashboards and Excel modeling. [View Folder](deloitte/)
