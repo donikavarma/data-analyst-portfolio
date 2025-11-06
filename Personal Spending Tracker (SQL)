@@ -1,0 +1,42 @@
+# Personal Spending Tracker (SQL)
+
+Mini-project using SQLiteStudio  
+- Table: `daily_expenses`  
+- Columns: date, category, amount, payment_method  
+- Queries: total per category, weekend spending, highest expense
+
+ CREATE TABLE daily_expenses (
+    date TEXT,
+    category TEXT,
+    amount REAL,
+    payment_method TEXT
+);
+
+INSERT INTO daily_expenses VALUES
+('2025-11-01', 'Groceries', 45.20, 'Credit'),
+('2025-11-02', 'Transport', 15.00, 'Cash'),
+('2025-11-03', 'Dining', 22.50, 'Debit'),
+('2025-11-04', 'Groceries', 30.00, 'Credit'),
+('2025-11-05', 'Entertainment', 60.00, 'Cash'),
+('2025-11-06', 'Dining', 18.75, 'Credit'),
+('2025-11-07', 'Transport', 12.00, 'Debit'),
+('2025-11-08', 'Groceries', 50.00, 'Cash'),
+('2025-11-09', 'Dining', 25.00, 'Credit'),
+('2025-11-10', 'Entertainment', 70.00, 'Debit');
+
+select * from daily_expenses;
+
+-- Total spent per category --
+ 
+ select category,sum(amount) as total_spent from daily_expenses
+ group by category;
+ 
+-- Spending on weekends --
+
+select * from daily_expenses
+where strftime('%w',date) IN ('0','6');
+
+-- Highest Single expense --
+select * from daily_expenses
+order by amount DESC
+limit 1; 
