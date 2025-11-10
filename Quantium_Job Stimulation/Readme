@@ -1,0 +1,19 @@
+# 📊 Quantium Analytics Simulation – Task 1
+
+## ✅ Task Summary (Completed on November 10, 2025)
+- Imported and explored transaction and customer datasets
+- Performed data cleaning:
+  - Checked for missing values and duplicates
+  - Validated data types and column formats
+- Merged datasets using `customer_id` as the key
+- Created a clean, audit-ready base for further analysis
+
+## 🧠 Key Learnings
+- Reinforced best practices in feature validation and merging
+- Practiced systematic troubleshooting for notebook export issues
+- Gained confidence in using `nbconvert` and HTML-to-PDF conversion
+
+## 📁 Files Included
+- `quantium_analysis.ipynb`: Jupyter notebook with full workflow
+- `quantium_analysis.pdf`: Exported version for submission
+
