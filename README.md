@@ -4,7 +4,7 @@ This repository documents my daily progress as I build hands-on skills in data a
 
 ---
 
-### Day 1 – Environment Setup + SQL Mini Project
+### Environment Setup + SQL Mini Project
 
 - Installed and tested: Power BI, Tableau, Jupyter (via Anaconda), SQLiteStudio, and DBeaver
 - Created and queried first SQLite table (`expenses`)
