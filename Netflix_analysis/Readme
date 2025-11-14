@@ -19,7 +19,7 @@ This project explores Netflix's global content catalog using Python and visual s
 Understanding Netflix’s content strategy helps media analysts, marketers, and licensing teams identify regional strengths, genre preferences, and platform focus. This analysis supports data-driven decisions in content acquisition and localization.
 
 ## 🖼️ Sample Visuals
-![Content Type](outputs/content_type.png)
-![Yearly Trend](outputs/yearly_trend.png)
-![Top Countries](outputs/top_countries.png)
-![Top Genres](outputs/top_genres.png)
+- [Content Type](output/content_type.png)
+- [Yearly Trend](output/yearly_trend.png)
+- [Top Countries](output/top_countries.png)
+- [Top Genres](output/top_genres.png)
