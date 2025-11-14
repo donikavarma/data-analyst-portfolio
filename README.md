@@ -8,7 +8,7 @@ This repository documents my daily progress as I build hands-on skills in data a
 
 - Installed and tested: Power BI, Tableau, Jupyter (via Anaconda), SQLiteStudio, and DBeaver
 - Created and queried first SQLite table (`expenses`)
-- 
+  
 - Completed **Personal Spending Tracker** mini-project:
   - Table: `daily_expenses`
   - Wrote SQL queries for category totals, weekend spending, and highest expense
@@ -19,5 +19,5 @@ This repository documents my daily progress as I build hands-on skills in data a
 - Includes Jupyter notebooks, visualizations, and final project files.
 
 📂 Project Added: Netflix Content Analysis
-Day 3 project added — EDA on Netflix titles using Python. Includes notebook, visuals, and business insights.
+Day 3 project added: EDA on Netflix titles using Python. Includes notebook, visuals, and business insights.
 
