@@ -1,0 +1,19 @@
+# Netflix Content Strategy Analysis
+
+Exploratory data analysis of Netflix's global catalog using Python, Pandas, and Matplotlib.
+
+## Key Questions
+- How has Netflix’s content evolved over time?
+- What genres and countries dominate the platform?
+- Are movies more prevalent than TV shows?
+
+## Tools Used
+- Python, Pandas, Matplotlib, Seaborn
+- Jupyter Notebook
+
+## Business Impact
+Helps content strategists and marketers understand global media trends and platform focus.
+
+## Sample Visuals
+![Top Genres](outputs/top_genres.png)
+![Country Distribution](outputs/country_distribution.png)
