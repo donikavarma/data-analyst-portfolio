@@ -8,7 +8,12 @@ This repository documents my daily progress as I build hands-on skills in data a
 
 - Installed and tested: Power BI, Tableau, Jupyter (via Anaconda), SQLiteStudio, and DBeaver
 - Created and queried first SQLite table (`expenses`)
+- 
 - Completed **Personal Spending Tracker** mini-project:
   - Table: `daily_expenses`
   - Wrote SQL queries for category totals, weekend spending, and highest expense
 - Uploaded `.sqlite` file and README to `SQL_Practice/`
+  
+📂 Course Folder Added: IBM Data Analysis with Python
+- Created a dedicated folder for the IBM Data Analysis with Python course (Coursera).
+- Includes Jupyter notebooks, visualizations, and final project files.
