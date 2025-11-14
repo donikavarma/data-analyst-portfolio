@@ -19,5 +19,6 @@ This repository documents my daily progress as I build hands-on skills in data a
 - Includes Jupyter notebooks, visualizations, and final project files.
 
 📂 Project Added: Netflix Content Analysis
+
 Day 3 project added: EDA on Netflix titles using Python. Includes notebook, visuals, and business insights.
 
