@@ -1,0 +1,34 @@
+📌 Project Overview
+This project uses the Superstore dataset to demonstrate end‑to‑end data cleaning, analysis, and visualization.
+The workflow combines SQL (SQLite in DBeaver) for data preparation and Python (Jupyter Notebook) for analysis and charts.
+
+⚙️ Steps
+- Data Cleaning in SQL
+- Standardized text fields (uppercase, trimmed).
+- Converted dates from DD/MM/YYYY → YYYY-MM-DD.
+- Created a reusable view: superstore_clean.
+- Exploratory Analysis
+- Monthly sales trends.
+- Shipping delay calculations.
+- Sales by category and region.
+- Visualization in Python
+- Line chart: monthly sales trend.
+- Bar chart: category sales.
+- Histogram: shipping delay distribution.
+
+📊 Tools Used
+- SQLite + DBeaver → SQL cleaning and queries
+- Python + Pandas + Matplotlib → Analysis and visualization
+- Jupyter Notebook → Documentation and storytelling
+
+🚀 How to Run
+- Clone this repo.
+- Open superstore.db in DBeaver.
+- Run superstore_clean_view.sql to create the clean view.
+- Open step8_visualization.ipynb in Jupyter Notebook.
+- Run the cells to generate charts.
+
+📈 Sample Insights
+- Sales peak in certain months (seasonality).
+- Average shipping delay is ~3–5 days.
+- Technology category drives the highest revenue.
