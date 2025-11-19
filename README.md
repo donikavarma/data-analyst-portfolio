@@ -20,5 +20,8 @@ This repository documents my daily progress as I build hands-on skills in data a
 
 📂 Project Added: Netflix Content Analysis
 
-Day 3 project added: EDA on Netflix titles using Python. Includes notebook, visuals, and business insights.
+EDA on Netflix titles using Python. Includes notebook, visuals, and business insights.
 
+📂 Project Added: Superstore Sales Analysis
+
+Data cleaning and exploratory analysis on Superstore dataset using SQLite + Python. Includes SQL scripts, Jupyter notebook visuals, and business insights.
