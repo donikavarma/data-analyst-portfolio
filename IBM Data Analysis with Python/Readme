@@ -1,6 +1,15 @@
 This folder contains my completed exercises, notes, and project files from the IBM Data Analysis with Python course on Coursera. It’s part of my daily FAANG-ready study plan and showcases my progress in applying Python to real-world data analysis tasks.
+
 🔧 Contents:
 - Jupyter notebooks for each module
 - Final project: Housing data analysis
 - Visualizations using matplotlib and seaborn
 - Statistical analysis and regression models
+
+📘 What I Learned:
+- How to clean, wrangle, and prepare datasets for analysis
+- Practical use of **Pandas** and **NumPy** for data manipulation
+- Building visualizations with **Matplotlib** and **Seaborn**
+- Applying statistical methods and regression models to real-world data
+- Hands-on experience with **SQL integration** and working with multiple data sources
+- Strengthening problem-solving skills by completing end-to-end projects
